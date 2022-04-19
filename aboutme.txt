@@ -4,6 +4,6 @@
 <p>नमस्ते! मैं अपनी वेबसाइट पर आपका स्वागत करता हूँ। मैं भारत से अनिरुद्ध हूं, और मैं एक एथिकल हैकर, बग बाउंटी शोधकर्ता और साइबर सुरक्षा उत्साही हूं। मैं वर्तमान में कंप्यूटर विज्ञान और इंजीनियरिंग में स्नातक की पढ़ाई कर रहा हूं। मुझे कंप्यूटर पर काम करना और कुछ नया करना पसंद है! मेरे GitHub रेपो देखना चाहते हैं? <a target="_blank" href="https://github.com/AnirudhKK/">यह लीजिए </a></p>
 <span id="a"><span style="color:red;">root</span>@humpty</span>:<span id="b">~</span><span id="c">$</span> cat contact_me.txt
 <p>आप मेरे अन्य प्रोफाइल देख सकते हैं: <br> <a target="_blank" href="https://www.linkedin.com/in/anirudhkumarkushwaha/">LinkedIn</a> <br> <a target="_blank" href="https://instagram.com/awesome_humpty/">Instagram</a> <br> <a target="_blank" href="https://twitter.com/AnirudhKumarKu5">Twitter</a>
-If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: mail@anirudh.one">email</a></br></p>
+अगर आप मुझसे संपर्क करना चाहते हैं तो<!-- slightdelayhere-->, आप मुझे <a href="mailto: mail@anirudh.one">ईमेल </a>कर सकते हैं</br></p>
 <span id="a"><span style="color:red;">root</span>@humpty</span>:<span id="b">~</span><span id="c">$</span> exit
 सीखते रहो, हैकिंग करते रहो!
