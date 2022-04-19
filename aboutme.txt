@@ -1,0 +1,9 @@
+<span id="a"><span style="color:red;">root</span>@humpty</span>:<span id="b">~</span><span id="c">$</span> whoami
+<p> Anirudh a.k.a @humpty </p>
+<span id="a"><span style="color:red;">root</span>@humpty</span>:<span id="b">~</span><span id="c">$</span> cat about_me.txt
+<p>नमस्ते! I am Anirudh from India, and I am an Ethical Hacker, Bug Bounty Researcher and a Cybersecurity Enthusiast. I am currently pursuing my Bachelor's in Computer Science and Engineering at <a target="_blank" href="https://gla.ac.in">GLA University</a>. I love computers and tinkering! Wanna check my GitHub repos? <a target="_blank" href="https://github.com/AnirudhKK/">There you go.</a></p>
+<span id="a"><span style="color:red;">root</span>@humpty</span>:<span id="b">~</span><span id="c">$</span> cat contact_me.txt
+<p>You can visit my other profiles, here: <br> <a target="_blank" href="https://www.linkedin.com/in/anirudhkumarkushwaha/">LinkedIn</a> <br> <a target="_blank" href="https://instagram.com/awesome_humpty/">Instagram</a> <br> <a target="_blank" href="https://twitter.com/AnirudhKumarKu5">Twitter</a>
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: mail@anirudh.one">email</a></br></p>
+<span id="a"><span style="color:red;">root</span>@humpty</span>:<span id="b">~</span><span id="c">$</span> exit
+Keep Hustling, Keep Hacking!
